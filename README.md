@@ -29,9 +29,9 @@ One Welfare Social Workers integrate into veterinary teams to provide:
 
 ## Tech Stack
 
-- **Next.js 16** - React framework with App Router
-- **TypeScript** - Type safety
-- **Tailwind CSS** - Utility-first styling
+- **Next.js 16** 
+- **TypeScript** 
+- **Tailwind CSS** 
 
 ## Getting Started
 
