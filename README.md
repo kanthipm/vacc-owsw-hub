@@ -1,36 +1,113 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# VACC One Welfare Social Workers Hub
 
-## Getting Started
+An educational platform demonstrating the value of One Welfare Social Workers (OWSW) in veterinary teams. This project provides evidence-based information to support veterinary professionals, business owners, and animal companions.
 
-First, run the development server:
+## 🌐 Live Site
+
+[Visit the live website](https://vacc-owsw-hub.vercel.app)
+
+## 📋 About
+
+One Welfare Social Workers integrate into veterinary teams to provide:
+- Mental health support for veterinary professionals
+- Emotional support for pet owners during difficult decisions
+- Crisis intervention and mental health risk assessments
+- Improved staff retention and reduced burnout
+- **$8.21 social return on investment** for every $1 invested
+
+### Target Audience
+
+1. **Emergency Veterinary Hospitals** (Primary)
+2. **Veterinary Clinics** (Secondary)
+3. **Animal Companions/Pet Owners** (Secondary)
+
+## 🎯 Objectives
+
+1. **Collect Pilot Data** - Gather primary data from the pilot program demonstrating real-world impact
+2. **Educational Tool** - Create evidence-based platform using secondary research to educate stakeholders
+3. **Marketing Materials** - Develop comprehensive materials highlighting OWSW benefits
+
+## 📊 Key Statistics
+
+- 88.9% of veterinary teams use OWSW for mental health/wellness support
+- 77% debrief with OWSW about client problems
+- 77.7% engage OWSW for personal problems
+- 86.6% support for euthanasia decisions
+- 73.3% grief counseling support
+- 66.7% client health support
+- $8.21 ROI per $1 invested
+
+## 🛠️ Tech Stack
+
+- **Next.js 16** - React framework with App Router
+- **TypeScript** - Type safety
+- **Tailwind CSS** - Utility-first styling
+- **Playfair Display** - Headings font
+- **Arial** - Body text font
+
+## 🚀 Getting Started
 
 ```bash
+# Install dependencies
+npm install
+
+# Run development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
+# Open http://localhost:3000
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📁 Project Structure
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+app/
+  ├── page.tsx                   # Homepage
+  ├── vet-resources/             # Veterinary Teams page
+  ├── business-resources/         # Business Owners page
+  ├── companions/                 # Animal Companions page
+  ├── evidence/pilot/             # Evidence & Research page
+  └── register/                   # Get Involved page
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+components/
+  ├── Nav.tsx                     # Navigation
+  ├── Banner.tsx                  # Hero sections
+  ├── Card.tsx                    # Feature cards
+  └── Footer.tsx                  # Footer
 
-## Learn More
+public/
+  └── vacc-logo.png              # Logo (add banner images here)
+```
 
-To learn more about Next.js, take a look at the following resources:
+## 🎨 Design System
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Primary Color (Headings)**: #CC5500 (Orange)
+- **Secondary Color**: Blue (#2563eb)
+- **Typography**: 
+  - Headings: Playfair Display
+  - Body: Arial
+  - Numbers: Playfair Display
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📚 Research Sources
 
-## Deploy on Vercel
+- Hoy-Gerlach, Kogan, & McCune (2025) - Primary pilot data
+- Pohl et al. (2022) - Mental health research
+- Osca et al. (2024) - Australian veterinary workforce
+- RSPCA NSW (2023) - Workforce and ROI data
+- Stetina & Krouzecky (2022) - Stress and coping research
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🌍 Deployment
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Deployed on [Vercel](https://vercel.com) with automatic deployments from GitHub.
+
+```bash
+# Deploy to production
+npx vercel --prod
+```
+
+## 📝 License
+
+This project is part of the VACC One Welfare Social Workers pilot program.
+
+## 🤝 Contributing
+
+This is an educational research platform. For questions or feedback, contact the VACC research team.
