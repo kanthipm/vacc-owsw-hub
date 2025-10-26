@@ -27,16 +27,6 @@ One Welfare Social Workers integrate into veterinary teams to provide:
 2. **Educational Tool** - Create evidence-based platform using secondary research to educate stakeholders
 3. **Marketing Materials** - Develop comprehensive materials highlighting OWSW benefits
 
-## Key Statistics
-
-- 88.9% of veterinary teams use OWSW for mental health/wellness support
-- 77% debrief with OWSW about client problems
-- 77.7% engage OWSW for personal problems
-- 86.6% support for euthanasia decisions
-- 73.3% grief counseling support
-- 66.7% client health support
-- $8.21 ROI per $1 invested
-
 ## Tech Stack
 
 - **Next.js 16** - React framework with App Router
