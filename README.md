@@ -2,11 +2,11 @@
 
 An educational platform demonstrating the value of One Welfare Social Workers (OWSW) in veterinary teams. This project provides evidence-based information to support veterinary professionals, business owners, and animal companions.
 
-## 🌐 Live Site
+## Live Site
 
 [Visit the live website](https://vacc-owsw-hub.vercel.app)
 
-## 📋 About
+## About
 
 One Welfare Social Workers integrate into veterinary teams to provide:
 - Mental health support for veterinary professionals
@@ -21,13 +21,13 @@ One Welfare Social Workers integrate into veterinary teams to provide:
 2. **Veterinary Clinics** (Secondary)
 3. **Animal Companions/Pet Owners** (Secondary)
 
-## 🎯 Objectives
+## Objectives
 
 1. **Collect Pilot Data** - Gather primary data from the pilot program demonstrating real-world impact
 2. **Educational Tool** - Create evidence-based platform using secondary research to educate stakeholders
 3. **Marketing Materials** - Develop comprehensive materials highlighting OWSW benefits
 
-## 📊 Key Statistics
+## Key Statistics
 
 - 88.9% of veterinary teams use OWSW for mental health/wellness support
 - 77% debrief with OWSW about client problems
@@ -37,7 +37,7 @@ One Welfare Social Workers integrate into veterinary teams to provide:
 - 66.7% client health support
 - $8.21 ROI per $1 invested
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Next.js 16** - React framework with App Router
 - **TypeScript** - Type safety
@@ -45,7 +45,7 @@ One Welfare Social Workers integrate into veterinary teams to provide:
 - **Playfair Display** - Headings font
 - **Arial** - Body text font
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 # Install dependencies
@@ -57,7 +57,7 @@ npm run dev
 # Open http://localhost:3000
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 app/
@@ -78,7 +78,7 @@ public/
   └── vacc-logo.png              # Logo (add banner images here)
 ```
 
-## 🎨 Design System
+## Design System
 
 - **Primary Color (Headings)**: #CC5500 (Orange)
 - **Secondary Color**: Blue (#2563eb)
@@ -87,7 +87,7 @@ public/
   - Body: Arial
   - Numbers: Playfair Display
 
-## 📚 Research Sources
+## Research Sources
 
 - Hoy-Gerlach, Kogan, & McCune (2025) - Primary pilot data
 - Pohl et al. (2022) - Mental health research
@@ -95,7 +95,7 @@ public/
 - RSPCA NSW (2023) - Workforce and ROI data
 - Stetina & Krouzecky (2022) - Stress and coping research
 
-## 🌍 Deployment
+## Deployment
 
 Deployed on [Vercel](https://vercel.com) with automatic deployments from GitHub.
 
@@ -104,10 +104,10 @@ Deployed on [Vercel](https://vercel.com) with automatic deployments from GitHub.
 npx vercel --prod
 ```
 
-## 📝 License
+## License
 
 This project is part of the VACC One Welfare Social Workers pilot program.
 
-## 🤝 Contributing
+## Contributing
 
 This is an educational research platform. For questions or feedback, contact the VACC research team.
